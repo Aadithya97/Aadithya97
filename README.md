@@ -15,15 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<p align="center">
-<a href="https://www.linkedin.com/in/aadithya-kandeth"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/aadithya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
-
-### 👨‍💻: &nbsp;About Me :
+#### 👨‍💻: &nbsp;About Me :
 
 I am an international student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> pursuing my Masters in Computer Science from the University of Florida. I have three years of work experience as a software engineer with Siemens Healthineers, prior to which I completed my bachelor's degree in Information Technology from SRM Institute of Science and Technology. Find more about me at https://Aadithya97.github.io/
 
@@ -31,6 +23,13 @@ I am an international student <img src="https://media.giphy.com/media/WUlplcMpOC
 - 📫 Contact: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AnolKurian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aadithya-kandeth) | aadithya9788@gmail.com | aadithya.kandeth@ufl.edu
 
 ---
+
+<p align="center">
+<a href="https://www.linkedin.com/in/aadithya-kandeth"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/aadithya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -53,12 +52,5 @@ I am an international student <img src="https://media.giphy.com/media/WUlplcMpOC
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" **alt="VisualStudio" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" **alt="VsCode" width="40" height="40"/>&nbsp;
 </p>
-
----
-
-### 🔥 &nbsp; My Stats :
-[![Stats](http://github-readme-streak-stats.herokuapp.com?user=aadithyakandeth&theme=dark&background=000000)](https://github.com/Aadithya97?tab=repositories)
-
-<!-- [![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=anolkurian&layout=compact&theme=vision-friendly-dark)](https://github.com/anolkurian?tab=repositories) -->
 
 ---
