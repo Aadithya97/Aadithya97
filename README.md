@@ -23,16 +23,12 @@ Here are some ideas to get you started:
 <a href="https://www.buymeacoffee.com/aadithya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
-<h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
 ### 👨‍💻: &nbsp;About Me :
 
-I am an international student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> pursuing my Masters in Computer Science from the University of Florida. I have completed my bachelors in Computer Engineering from the University of Mumbai and have close to 2 years of work experience. Find more about me at https://anolkurian.github.io/
+I am an international student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> pursuing my Masters in Computer Science from the University of Florida. I have three years of work experience as a software engineer with Siemens Healthineers, prior to which I completed my bachelor's degree in Information Technology from SRM Institute of Science and Technology. Find more about me at https://Aadithya97.github.io/
 
-- 🔭 I've worked as a full stack Software Engineer and have contributed to frontend and backend for building web applications during my 2 years of professional work.
-- 🌱 In my free time I play games and read books.
-- ⚡ Exploring AI/ML, Data Structures and Algorithms.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AnolKurian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anol-kurian) | anolkurian@gmail.com | anolkuri.vadakke@ufl.edu
+- I've worked as a Software Engineer and have contributed to developing windows applications using the .NET framework that ran PET and SPECT medical scanners.
+- 📫 Contact: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AnolKurian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aadithya-kandeth) | aadithya9788@gmail.com | aadithya.kandeth@ufl.edu
 
 ---
 
