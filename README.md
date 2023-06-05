@@ -51,7 +51,6 @@ I've worked as a Software Engineer and have contributed to developing windows ap
 <img src="https://github.com/devicons/devicon/blob/master/icons/erlang/erlang-original-wordmark.svg" title="Distributed Computing" **alt="VsCode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebooks" **alt="VsCode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" **alt="VsCode" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Notion" **alt="VsCode" width="40" height="40"/>&nbsp;  
 </p>
 
 ---
