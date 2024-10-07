@@ -1,4 +1,4 @@
-### Hi there 👋! My name is Aadithya Kandeth and I am a software engineer with 3 years of experiene.
+### Hi there 👋! My name is Aadithya Kandeth and I am a software engineer with 4 years of experience.
 
 <!--
 **Aadithya97/Aadithya97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
