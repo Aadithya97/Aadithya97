@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### 👨‍💻: &nbsp;About Me :
 
-I am an international student pursuing my Masters in Computer Science from the University of Florida. I have three years of work experience as a software engineer with Siemens Healthineers, prior to which I completed my bachelor's degree in Information Technology from SRM Institute of Science and Technology. Find more about me at https://Aadithya97.github.io/
+I am a software developer with over four years of work experience with GE Vernova, Infosys Limited, and Siemens Healthineers, prior to which I completed my Master's degree in Computer Science from the University of Florida and a bachelor's degree in Information Technology from SRM Institute of Science and Technology. Find more about me at https://Aadithya97.github.io/
 
 I've worked as a Software Engineer and have contributed to developing windows applications using the .NET framework that ran PET and SPECT medical scanners. <br><br>
 📫 Contact: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AadithyaKandeth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aadithya-kandeth) | aadithya9788@gmail.com | aadithya.kandeth@ufl.edu
