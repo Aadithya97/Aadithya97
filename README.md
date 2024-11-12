@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 I am a software developer with over four years of work experience with GE Vernova, Infosys Limited, and Siemens Healthineers, prior to which I completed my Master's degree in Computer Science from the University of Florida and a bachelor's degree in Information Technology from SRM Institute of Science and Technology. Find more about me at https://Aadithya97.github.io/
 
-I've worked as a Software Engineer and have contributed to developing windows applications using the .NET framework that ran PET and SPECT medical scanners. <br><br>
+I have built applications for a wide range of industries including: <br>
+-> Contributed to developing windows and desktop applications using the .NET framework that ran PET and SPECT medical scanners. <br>
+-> E-Commerce applications for GE <br>
+-> Student organization websites for a non-profit <br><br>
 📫 Contact: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AadithyaKandeth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aadithya-kandeth) | aadithya9788@gmail.com | aadithya.kandeth@ufl.edu
 
 ---
